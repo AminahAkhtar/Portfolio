@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.0ba3e519.css",
+    "main.js": "/Portfolio/static/js/main.ea4205db.js",
+    "static/media/kids.png": "/Portfolio/static/media/kids.78d78e41dcdccee807b3.png",
+    "static/media/restaurant.png": "/Portfolio/static/media/restaurant.fa15e36b4dfe222c35ff.png",
+    "static/media/AMINAH AKHTAR RESUME.pdf": "/Portfolio/static/media/AMINAH AKHTAR RESUME.4d0932043a7fb8232997.pdf",
+    "static/media/mypic.png": "/Portfolio/static/media/mypic.7a4c0bf1263df1785ba8.png",
+    "static/media/coffee.png": "/Portfolio/static/media/coffee.d27f53521101b2514eb5.png",
+    "static/media/flight.png": "/Portfolio/static/media/flight.7854d871e73d22a34152.png",
+    "static/media/supermarket.png": "/Portfolio/static/media/supermarket.cfd9e41bd6fe4a8fa095.png",
+    "index.html": "/Portfolio/index.html",
+    "main.0ba3e519.css.map": "/Portfolio/static/css/main.0ba3e519.css.map",
+    "main.ea4205db.js.map": "/Portfolio/static/js/main.ea4205db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba3e519.css",
+    "static/js/main.ea4205db.js"
+  ]
+}
